@@ -26,6 +26,8 @@ Analyzed e-commerce customer, order, and engagement data using Python to identif
 - **Conversion Funnel**: Only 2.41% of sessions resulted in purchases, highlighting opportunities to improve conversion.
 - **Marketing Channels**: Organic traffic showed a 5.23% conversion rate, with Instagram and other advertising channels also worth evaluating.
 
+<img width="758" height="304" alt="image" src="https://github.com/user-attachments/assets/a330a65d-0f41-4b48-8480-7f7dfcc0a2f2" />
+
 ## Business Recommendations
 - **Target High-Value Customers**: Focus personalized Instagram ads, relevant product recommendations, and loyalty offers on female customers aged 25–45 and the Champions and High Spending segments.
 - **Convert Promising Customers**: Offer sample products, introductory discounts, and skincare bundles to Recent/Promising customers in Mumbai, Navi Mumbai, and Thane to encourage their next purchase.
